@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "http-server": "^14.1.1"
+  },
+  "scripts": {
+    "start": "http-server -p 8436"
+  },
+  "name": "portfolio_frontend",
+  "version": "1.0.0",
+  "main": "index.html",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FraanGH/portfolio-FrontEnd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FraanGH/portfolio-FrontEnd/issues"
+  },
+  "homepage": "https://github.com/FraanGH/portfolio-FrontEnd#readme",
+  "description": ""
+}
